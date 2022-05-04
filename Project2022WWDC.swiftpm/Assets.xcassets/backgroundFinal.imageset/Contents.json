@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "backgroundFinal.png",
+      "idiom" : "ipad",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "backgroundFinal@2x.png",
+      "idiom" : "ipad",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
